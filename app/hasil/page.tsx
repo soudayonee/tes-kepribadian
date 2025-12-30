@@ -78,7 +78,7 @@ export default function Result() {
         return acc;
       },
       { maleTotal: 0, femaleTotal: 0 }
-    );
+    ) as { maleTotal: number; femaleTotal: number };
 
     const total = maleTotal + femaleTotal;
 
