@@ -9,8 +9,6 @@ const poppins = Poppins({
   subsets: ["latin"],
 });
 
-import type { Metadata } from "next";
-
 export const metadata: Metadata = {
   metadataBase: new URL("https://tes-kepribadianmu.vercel.app"),
 
