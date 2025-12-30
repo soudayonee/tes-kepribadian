@@ -1,0 +1,1088 @@
+{
+  "pertanyaan": [
+    {
+      "id": "q1",
+      "teks": "Saat berada di tempat baru yang asing, hal pertama yang biasanya kamu lakukan adalah",
+      "opsi": [
+        {
+          "teks": "Mengamati sekitar tanpa banyak bicara",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Mencari orang untuk diajak ngobrol",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Menyesuaikan diri perlahan",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Langsung mencoba hal-hal baru di tempat itu",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Menunggu sampai ada yang menyapa duluan",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "teks": "Kalau sedang stres, cara paling umum kamu untuk menenangkan diri adalah",
+      "opsi": [
+        { "teks": "Menyendiri sebentar", "skor": { "male": 6, "female": 4 } },
+        {
+          "teks": "Curhat ke orang terpercaya",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Melakukan aktivitas fisik",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Menonton atau mendengarkan sesuatu",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Mengalihkan pikiran dengan hal lain",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "teks": "Dalam sebuah kelompok, peran yang paling sering kamu ambil",
+      "opsi": [
+        { "teks": "Pengambil keputusan", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Pendengar dan penyeimbang",
+          "skor": { "male": 3, "female": 7 }
+        },
+        { "teks": "Pelaksana", "skor": { "male": 6, "female": 4 } },
+        { "teks": "Pengamat", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Penghubung antar anggota",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "teks": "Kalau rencana kamu tiba-tiba gagal",
+      "opsi": [
+        {
+          "teks": "Langsung bikin rencana baru",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Kesal dulu, baru mikir ulang",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Menerima lalu menyesuaikan",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Mencari bantuan", "skor": { "male": 3, "female": 7 } },
+        { "teks": "Membiarkannya berlalu", "skor": { "male": 6, "female": 4 } }
+      ]
+    },
+    {
+      "id": "q5",
+      "teks": "Saat membeli sesuatu yang mahal, kamu lebih mengutamakan",
+      "opsi": [
+        {
+          "teks": "Fungsi dan spesifikasi",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Perasaan saat memakainya",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Keseimbangan antara keduanya",
+          "skor": { "male": 5, "female": 5 }
+        },
+        { "teks": "Pendapat orang lain", "skor": { "male": 4, "female": 6 } },
+        { "teks": "Impuls sesaat", "skor": { "male": 6, "female": 4 } }
+      ]
+    },
+    {
+      "id": "q6",
+      "teks": "Kamu lagi laper banget, tapi cuma ada dua pilihan makanan",
+      "opsi": [
+        {
+          "teks": "Makanan sehat yang nggak terlalu enak",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Makanan enak yang kurang sehat",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Makan sedikit yang enak, sisanya sehat",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Tahan dulu sampai ada pilihan lain",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Makan apa aja yang penting kenyang",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "teks": "Ketika kamu nonton film horror sendirian",
+      "opsi": [
+        {
+          "teks": "Santai aja, cuma film kok",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Nonton sambil pegang bantal pelindung",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Nonton siang hari aja biar aman",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Minta temen nemenin walau online",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Skip scene yang serem", "skor": { "male": 6, "female": 4 } }
+      ]
+    },
+    {
+      "id": "q8",
+      "teks": "Respons pertama saat dapat chat pagi-pagi buta",
+      "opsi": [
+        {
+          "teks": "Baca, lalu balas besok",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Langsung balas walau ngantuk",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Baca dulu, urgent baru balas",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Tanya 'kenapa pagi-pagi banget?'",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Seen seen aja sampai bangun",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "teks": "Posisi tidur favorit kamu",
+      "opsi": [
+        { "teks": "Telentang kayak mayat", "skor": { "male": 7, "female": 3 } },
+        { "teks": "Meringkuk kek bayi", "skor": { "male": 3, "female": 7 } },
+        { "teks": "Tengkurap", "skor": { "male": 6, "female": 4 } },
+        {
+          "teks": "Miring kanan/kiri bebas",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Aneh-aneh, sampai jatoh dari kasur",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "teks": "Saat mau selfie, biasanya kamu",
+      "opsi": [
+        {
+          "teks": "Cepet-cepet jepret, selesai",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Cari angle dan cahaya sempurna",
+          "skor": { "male": 2, "female": 8 }
+        },
+        {
+          "teks": "Pose biasa aja yang penting natural",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Minta tolong orang lain fotoin",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Hindari selfie, mending foto pemandangan",
+          "skor": { "male": 7, "female": 3 }
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "teks": "Kalau HP kamu tinggal 1%",
+      "opsi": [
+        {
+          "teks": "Panik cari charger dimana-mana",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Tenang, biasa aja", "skor": { "male": 7, "female": 3 } },
+        {
+          "teks": "Matikan apps yang boros baterai",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Cepet-cepet nelpon orang penting",
+          "skor": { "male": 5, "female": 5 }
+        },
+        { "teks": "Biarin aja sampe mati", "skor": { "male": 8, "female": 2 } }
+      ]
+    },
+    {
+      "id": "q12",
+      "teks": "Reaksi saat lihat orang pelihara ular",
+      "opsi": [
+        {
+          "teks": "Wih keren! Boleh pegang?",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Ngeri, menjauh pelan-pelan",
+          "skor": { "male": 2, "female": 8 }
+        },
+        { "teks": "Takut tapi penasaran", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Tanya-tanya dulu soal perawatannya",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Langsung kabur tanpa komentar",
+          "skor": { "male": 3, "female": 7 }
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "teks": "Kebiasaan pas lagi nunggu antrean panjang",
+      "opsi": [
+        {
+          "teks": "Scroll sosmed tanpa henti",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Ngamatin sekitar kayak detektif",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Cobain ngobrol sama orang sebelah",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Dengerin musik atau podcast",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Mikirin hidup dan masa depan",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "teks": "Pilihan pas hari hujan deres",
+      "opsi": [
+        {
+          "teks": "Tetep jalan, hujan-hujanan asik",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Nunggu reda dulu dengan sabar",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Cari tempat teduh sambil ngopi",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Pesen gofood aja deh", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Langsung pulang, hujan nggak nahan",
+          "skor": { "male": 3, "female": 7 }
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "teks": "Saat ngerjain tugas kelompok online",
+      "opsi": [
+        {
+          "teks": "Bikin timeline ketat buat semua",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Ngingetin dengan kata-kata manis",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Ngerjain duluan bagian sendiri",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Nunggu instruksi dulu", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Ajakin zoom dulu biar seru",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "teks": "Kalau kamu jadi superhero, kekuatan yang pengen kamu punya",
+      "opsi": [
+        {
+          "teks": "Super kuat dan tahan banting",
+          "skor": { "male": 8, "female": 2 }
+        },
+        { "teks": "Baca pikiran orang", "skor": { "male": 3, "female": 7 } },
+        {
+          "teks": "Bisa terbang kemana aja",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Menghilang atau jadi kasat mata",
+          "skor": { "male": 5, "female": 5 }
+        },
+        { "teks": "Bicara sama hewan", "skor": { "male": 4, "female": 6 } }
+      ]
+    },
+    {
+      "id": "q17",
+      "teks": "Saat nemu makanan favorit di kulkas",
+      "opsi": [
+        { "teks": "Langsung habisin", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Makan sedikit, simpan buat nanti",
+          "skor": { "male": 3, "female": 7 }
+        },
+        { "teks": "Foto dulu buat story", "skor": { "male": 4, "female": 6 } },
+        {
+          "teks": "Tanya siapa yang beli dulu",
+          "skor": { "male": 5, "female": 5 }
+        },
+        { "teks": "Bagi sama orang rumah", "skor": { "male": 6, "female": 4 } }
+      ]
+    },
+    {
+      "id": "q18",
+      "teks": "Posisi duduk pas naik transportasi umum",
+      "opsi": [
+        {
+          "teks": "Deket pintu biar cepet turun",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Pojokan biar nggak kepepet",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Mana aja yang kosong", "skor": { "male": 6, "female": 4 } },
+        { "teks": "Jauh dari orang ribut", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Deket jendela buat liat pemandangan",
+          "skor": { "male": 3, "female": 7 }
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "teks": "Kalau ada cicilan baru di e-wallet",
+      "opsi": [
+        {
+          "teks": "Langsung kepikir mau beli apa",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Nggak tertarik, takut ketagihan",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Cek bunga dan syaratnya dulu",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Tanya temen udah pernah coba belum",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Buat kebutuhan mendesak aja",
+          "skor": { "male": 7, "female": 3 }
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "teks": "Saat lagi sendiri di rumah",
+      "opsi": [
+        {
+          "teks": "Nyalain TV biar ada suara",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Nikmatin keheningan", "skor": { "male": 7, "female": 3 } },
+        { "teks": "Beres-beres rumah", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Coba resep masakan baru",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Main game atau nonton marathon",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "teks": "Kalau kamu punya tanaman",
+      "opsi": [
+        {
+          "teks": "Rutin disiram dan dirawat",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Kadang lupa sampe layu",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Tanaman artificial aja biar aman",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Tanam yang kuat kayak kaktus",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Beli yang udah gede, rawat dikit",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "teks": "Saat liat orang pakai baju sama persis",
+      "opsi": [
+        { "teks": "Senyum aja, cuek", "skor": { "male": 7, "female": 3 } },
+        {
+          "teks": "Ngomong \"wah kembaran!\"",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Cek siapa yang lebih cocok",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Ngasih anggukan pengertian",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Hindari kontak mata", "skor": { "male": 4, "female": 6 } }
+      ]
+    },
+    {
+      "id": "q23",
+      "teks": "Kalau ada temen yang ulang tahun",
+      "opsi": [
+        {
+          "teks": "Kirim ucapan singkat aja",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Kirim pesan panjang plus kenangan",
+          "skor": { "male": 2, "female": 8 }
+        },
+        { "teks": "Kasih hadiah kecil", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Telpon atau video call",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Posting story biar rame",
+          "skor": { "male": 6, "female": 4 }
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "teks": "Posisi charger HP pas tidur",
+      "opsi": [
+        {
+          "teks": "Diempatin di meja samping",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Dibawah bantal (tapi tau resikonya)",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Jauh dari kasur biar nggak kepegang",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Ngecas sambil dipake sampe ketiduran",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Udah full sebelum tidur",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "teks": "Kalau lagi jalan sama grup dan ketinggalan",
+      "opsi": [
+        { "teks": "Lari-lari ngejar", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Telepon temen minta tunggu",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Santai aja, pasti nunggu kok",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Pelan-pelan sambil liat sekitar",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Mereka yang ketinggalan, bukan aku",
+          "skor": { "male": 7, "female": 3 }
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "teks": "Reaksi kalau liat spoiler film yang belum ditonton",
+      "opsi": [
+        {
+          "teks": "Kesel banget, langsung skip",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Gapapa, tetep nonton nanti",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Malah penasaran karena spoiler",
+          "skor": { "male": 5, "female": 5 }
+        },
+        { "teks": "Blokir yang spoiler", "skor": { "male": 6, "female": 4 } },
+        {
+          "teks": "Baca semua spoilernya biar jelas",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "teks": "Kalau mau keluar rumah cuma bentar",
+      "opsi": [
+        {
+          "teks": "Tetep ganti baju yang rapi",
+          "skor": { "male": 3, "female": 7 }
+        },
+        { "teks": "Pakai baju rumah aja", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Ganti baju, tapi yang casual",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Cek cuaca dulu baru milih baju",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Jaket aja, dalemannya bebas",
+          "skor": { "male": 7, "female": 3 }
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "teks": "Saat ngerasain makanan yang aneh",
+      "opsi": [
+        {
+          "teks": "Langsung meludahin (sopan)",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Tetap ditelan sambil senyum",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Minum banyak air biar hilang",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Kasih kesempatan kedua",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Bagiin ke temen biar ngerasain juga",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "teks": "Kalau mau beli minuman kekinian",
+      "opsi": [
+        {
+          "teks": "Pesan yang biasa aja, aman",
+          "skor": { "male": 7, "female": 3 }
+        },
+        { "teks": "Coba yang lagi viral", "skor": { "male": 4, "female": 6 } },
+        {
+          "teks": "Minta rekomendasi barista",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Custom topping dan level manis",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Lihat dulu review di apps",
+          "skor": { "male": 6, "female": 4 }
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "teks": "Kebiasaan pas bangun tidur",
+      "opsi": [
+        {
+          "teks": "Cek HP dulu sebelum buka mata",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Stretching dulu biar segar",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Langsung mandi biar melek",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Rebahan dulu 5-10 menit",
+          "skor": { "male": 5, "female": 5 }
+        },
+        { "teks": "Minum air putih dulu", "skor": { "male": 3, "female": 7 } }
+      ]
+    },
+    {
+      "id": "q31",
+      "teks": "Kalau ada temen yang minta bantuan pas kamu sibuk",
+      "opsi": [
+        {
+          "teks": "Bilang sibuk, tolak baik-baik",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Iyain dulu, nanti diatur",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Tanya dulu tingkat urgensinya",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Bantuin dikit aja", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Bantuin full tapi komplain dikit",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q32",
+      "teks": "Pilihan pas weekend sendirian",
+      "opsi": [
+        {
+          "teks": "Nonton series seharian",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Coba resep masakan baru",
+          "skor": { "male": 3, "female": 7 }
+        },
+        { "teks": "Nge-game online", "skor": { "male": 7, "female": 3 } },
+        { "teks": "Bersih-bersih rumah", "skor": { "male": 5, "female": 5 } },
+        { "teks": "Jalan-jalan sendiri", "skor": { "male": 4, "female": 6 } }
+      ]
+    },
+    {
+      "id": "q33",
+      "teks": "Kalau liat orang fotoin makanan di resto",
+      "opsi": [
+        { "teks": "Nungguin dengan sabar", "skor": { "male": 5, "female": 5 } },
+        { "teks": "Ikutan fotoin juga", "skor": { "male": 4, "female": 6 } },
+        {
+          "teks": "Keburu laper nunggunya",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Kasih saran angle bagus",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Cuek aja, urusan masing-masing",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q34",
+      "teks": "Kalau kamu punya waktu luang 1 jam",
+      "opsi": [
+        { "teks": "Tidur siang", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Baca buku atau artikel",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Scroll sosmed tanpa tujuan",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Olahraga ringan", "skor": { "male": 5, "female": 5 } },
+        { "teks": "Ngeplan sesuatu", "skor": { "male": 7, "female": 3 } }
+      ]
+    },
+    {
+      "id": "q35",
+      "teks": "Reaksi saat liat mantan di tempat umum",
+      "opsi": [
+        { "teks": "Hindari kontak mata", "skor": { "male": 6, "female": 4 } },
+        { "teks": "Senyum kecil aja", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Sapa biasa kayak temen",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Cepet-cepet pergi dari situ",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Pura-pura nggak liat", "skor": { "male": 8, "female": 2 } }
+      ]
+    },
+    {
+      "id": "q36",
+      "teks": "Kalau mau beli baju online",
+      "opsi": [
+        {
+          "teks": "Langsung beli, ukuran ngikut feeling",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Baca review dulu panjang lebar",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Cari yang size chartnya jelas",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Tanya ke temen yang udah beli",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Lihat bahan dan cara perawatan",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q37",
+      "teks": "Kalau kamu kesurupan duit receh",
+      "opsi": [
+        {
+          "teks": "Tukerin jadi uang kertas",
+          "skor": { "male": 7, "female": 3 }
+        },
+        { "teks": "Ditabung di celengan", "skor": { "male": 4, "female": 6 } },
+        {
+          "teks": "Dipake belanja kecil-kecilan",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Dikasihin ke pengemis", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Dibiarin aja, nanti kepake juga",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q38",
+      "teks": "Saat ada yang kritik kamu",
+      "opsi": [
+        {
+          "teks": "Dengerin, tapi tetep jalanin cara sendiri",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Mikirin terus sampe overthinking",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Evaluasi, ambil yang bermanfaat",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Tanya detail biar jelas",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Bela diri, jelasin alasan",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q39",
+      "teks": "Kalau lagi nungguin orang yang telat",
+      "opsi": [
+        {
+          "teks": "Telepon 'kamu dimana?'",
+          "skor": { "male": 8, "female": 2 }
+        },
+        {
+          "teks": "Kirim WA 'udah sampe ya'",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Nunggu sambil ngelakuin hal lain",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Kesel tapi sabar", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Kasih waktu 15 menit, lalu pergi",
+          "skor": { "male": 7, "female": 3 }
+        }
+      ]
+    },
+    {
+      "id": "q40",
+      "teks": "Kalau kamu bisa ngulang satu hari",
+      "opsi": [
+        {
+          "teks": "Hari dimana aku bikin kesalahan",
+          "skor": { "male": 7, "female": 3 }
+        },
+        { "teks": "Hari paling bahagia", "skor": { "male": 3, "female": 7 } },
+        {
+          "teks": "Hari dimana aku pengen coba pilihan beda",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Hari biasa aja, biar lebih produktif",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Gak pengen ngulang, move on aja",
+          "skor": { "male": 8, "female": 2 }
+        }
+      ]
+    },
+    {
+      "id": "q41",
+      "teks": "Saat lagi di kendaraan dan pengen pipis",
+      "opsi": [
+        { "teks": "Tahan sampe tujuan", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Minta berhenti di pom bensin",
+          "skor": { "male": 3, "female": 7 }
+        },
+        {
+          "teks": "Minum dikit biar nggak makin parah",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Ngobrol biar lupa", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Ngecek maps ada toilet dimana",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    },
+    {
+      "id": "q42",
+      "teks": "Kalau ada berita viral di sosmed",
+      "opsi": [
+        {
+          "teks": "Langsung baca detail sampe clear",
+          "skor": { "male": 7, "female": 3 }
+        },
+        { "teks": "Cek kebenarannya dulu", "skor": { "male": 5, "female": 5 } },
+        {
+          "teks": "Ikutan share biar rame",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Skip aja, banyak hoax", "skor": { "male": 6, "female": 4 } },
+        { "teks": "Liat komentarnya dulu", "skor": { "male": 8, "female": 2 } }
+      ]
+    },
+    {
+      "id": "q43",
+      "teks": "Posisi duduk pas meeting online",
+      "opsi": [
+        { "teks": "Duduk rapi di meja", "skor": { "male": 5, "female": 5 } },
+        { "teks": "Rebahan di kasur", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Duduk di sofa sambil nyemil",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Pake background virtual",
+          "skor": { "male": 7, "female": 3 }
+        },
+        { "teks": "Camera off, bebas pose", "skor": { "male": 4, "female": 6 } }
+      ]
+    },
+    {
+      "id": "q44",
+      "teks": "Kalau kamu punya binatang peliharaan",
+      "opsi": [
+        { "teks": "Anjing yang aktif", "skor": { "male": 8, "female": 2 } },
+        { "teks": "Kucing yang manja", "skor": { "male": 3, "female": 7 } },
+        {
+          "teks": "Ikan yang low maintenance",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Burung yang bisa ngomong",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Hewan exotic kayak reptil",
+          "skor": { "male": 7, "female": 3 }
+        }
+      ]
+    },
+    {
+      "id": "q45",
+      "teks": "Saat liat orang nangis di publik",
+      "opsi": [
+        { "teks": "Pura-pura nggak liat", "skor": { "male": 7, "female": 3 } },
+        {
+          "teks": "Pengen nolong tapi bingung",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Kasih tisu atau air mineral",
+          "skor": { "male": 4, "female": 6 }
+        },
+        { "teks": "Diem-diem doain aja", "skor": { "male": 6, "female": 4 } },
+        {
+          "teks": "Ajakin ngobrol kalau kenal",
+          "skor": { "male": 3, "female": 7 }
+        }
+      ]
+    },
+    {
+      "id": "q46",
+      "teks": "Kalau pas jalan-jalan kehabisan baterai HP",
+      "opsi": [
+        {
+          "teks": "Panik, gimana caranya pulang?",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Santai, nikmati perjalanan",
+          "skor": { "male": 7, "female": 3 }
+        },
+        { "teks": "Cari tempat ngecas", "skor": { "male": 6, "female": 4 } },
+        {
+          "teks": "Pake peta fisik (kalau ada)",
+          "skor": { "male": 8, "female": 2 }
+        },
+        { "teks": "Tanya orang sekitar", "skor": { "male": 5, "female": 5 } }
+      ]
+    },
+    {
+      "id": "q47",
+      "teks": "Saat lagi sendiri di lift sama orang asing",
+      "opsi": [
+        {
+          "teks": "Cek HP biar kelihan sibuk",
+          "skor": { "male": 6, "female": 4 }
+        },
+        {
+          "teks": "Lihat angka lift naik/turun",
+          "skor": { "male": 7, "female": 3 }
+        },
+        {
+          "teks": "Senyum kecil kalau kebetulan tatap",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Bikin percakapan kecil",
+          "skor": { "male": 3, "female": 7 }
+        },
+        { "teks": "Berpura-pura batuk", "skor": { "male": 8, "female": 2 } }
+      ]
+    },
+    {
+      "id": "q48",
+      "teks": "Kalau kamu nemu uang di jalan",
+      "opsi": [
+        { "teks": "Ambil, rejeki nomplok", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Biarin aja, jangan ambil risiko",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Cari pemiliknya sekitar",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Ambil, kasih ke pengemis",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Foto dulu buat story", "skor": { "male": 7, "female": 3 } }
+      ]
+    },
+    {
+      "id": "q49",
+      "teks": "Saat ada orang yang nge-gas di jalan",
+      "opsi": [
+        { "teks": "Nge-gas balik", "skor": { "male": 8, "female": 2 } },
+        {
+          "teks": "Diemin aja, biar lewat",
+          "skor": { "male": 4, "female": 6 }
+        },
+        {
+          "teks": "Klakson dikit sebagai protes",
+          "skor": { "male": 6, "female": 4 }
+        },
+        { "teks": "Lihat muka pelakunya", "skor": { "male": 7, "female": 3 } },
+        { "teks": "Kedipin lampu sein", "skor": { "male": 5, "female": 5 } }
+      ]
+    },
+    {
+      "id": "q50",
+      "teks": "Kalau kamu jadi karakter fiksi",
+      "opsi": [
+        {
+          "teks": "Protagonis yang heroik",
+          "skor": { "male": 8, "female": 2 }
+        },
+        { "teks": "Karakter romantis", "skor": { "male": 3, "female": 7 } },
+        { "teks": "Sidekick yang lucu", "skor": { "male": 6, "female": 4 } },
+        {
+          "teks": "Antagonis yang complex",
+          "skor": { "male": 5, "female": 5 }
+        },
+        {
+          "teks": "Karakter netral yang bijak",
+          "skor": { "male": 4, "female": 6 }
+        }
+      ]
+    }
+  ]
+}

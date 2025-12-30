@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f3f3f3;
+  --foreground: #171717;
+  --base-text: #545454;
+  --male-blue: #00aee9;
+  --female-pink: #e00056;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--base-text);
+  font-family: var(--font-poppins), sans-serif;
+  box-sizing: border-box;
+}
+
+.button {
+  cursor: pointer;
+  background-color: var(--male-blue);
+  color: var(--background);
+  padding: 0.65rem 1.5rem;
+  border: none;
+  font-size: 1rem;
+  border-radius: 7px;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: var(--female-pink);
+}
